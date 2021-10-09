@@ -1,21 +1,61 @@
-body {
-    background-color:skyblue;
+content{
+    max-width: 1600px;
+    margin: 0 auto;
 }
-h1 {
-    background-color: orange;
-    padding:0px 150px 50px 10px;
-    border: 1px solid black;
-    margin: 50px;
-}
-.latin{
-    font-size: 45px;
-    color:#ff0088;
-    text-align: center;
-    padding: 30px;
-    max-width: 500px;
-    line-height: 1.35em;
 
+nav a{
+    text-align: center;
 }
-#fancy {
-    font-family: 'Birthstone', cursive;
+
+#hero-msg h1{
+    text-align: center;
+}
+
+#hero-msg h4{
+    text-align: center;
+}
+
+main section{
+    text-align: center;
+}
+
+#background{
+    height: 725px;
+    background-color: blue;
+}
+
+body{
+    background-color: #fcfbfb;
+}
+
+header{
+    background-color: rgba(20,30,13, .7);
+}
+
+nav a:hover{
+    background-color: black;
+}
+
+.book{
+    background-color: white;
+}
+
+.join{
+    background-color: white;
+}
+
+.book:hover{
+    background-color: black;
+}
+
+.join:hover{
+    background-color: black;
+}
+
+.msg{
+    background-color: white;
+}
+
+footer{
+    background-color: turquoise;
 }
