@@ -33,7 +33,6 @@
 /* Activity 2 styles */ 
 .content2 {
   /* This is the parent of the activity 2 boxes. */
-  justify-items: center;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   float: left;
@@ -72,7 +71,6 @@
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
-  justify-items: center;
   display: grid;
   grid-template-columns: 1fr 1fr;
   justify-items: center;
@@ -103,7 +101,6 @@
 /* Activity 4 styles */ 
 .content4 {
   /* This is the parent of the activity 4 boxes. */
-  justify-items: center;
   height: 400px;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -134,7 +131,6 @@
 /* Activity 5 styles */ 
 .content5 {
   /* This is the parent of the activity 5 boxes. */
-  justify-items: center;
   height: 400px;
 }
 .red5 { 
@@ -163,7 +159,6 @@
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
-  justify-items: center;
   width: 500px;
   height: 400px;
   display: grid;
