@@ -252,7 +252,7 @@ nav {
 }
 #bighorn{
     grid-column: 7/10;
-    margin-top: 25%;
+    margin-top: 40%;
     mask-size: cover;
     box-shadow: 5px 5px 10px #2e3436;
     object-fit: cover;
